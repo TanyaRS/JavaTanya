@@ -1,7 +1,3 @@
-import javax.xml.crypto.Data;
-import java.util.Date;
-import java.util.Scanner;
-
 public class Client {
     public String name;
     public int age;
